@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="200" alt="OpenAgent Terminal Logo" src="./extra/logo/openagent-terminal.png">
+    <img width="400" alt="OpenAgent Terminal Logo" src="./extra/logo/openagent-terminal.png" style="max-width: 100%; height: auto;">
 </p>
 
 <h1 align="center">OpenAgent Terminal - A fast, cross-platform, OpenGL terminal emulator</h1>
