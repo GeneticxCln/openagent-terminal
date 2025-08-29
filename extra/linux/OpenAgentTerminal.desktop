@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+TryExec=openagent-terminal
+Exec=openagent-terminal
+Icon=openagent-terminal
+Terminal=false
+Categories=System;TerminalEmulator;
+
+Name=OpenAgent Terminal
+GenericName=Terminal
+Comment=A fast, cross-platform, OpenGL terminal emulator
+StartupNotify=true
+StartupWMClass=openagent-terminal
+Actions=New;
+
+[Desktop Action New]
+Name=New Terminal
+Exec=openagent-terminal
